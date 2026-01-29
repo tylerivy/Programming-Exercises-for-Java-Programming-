@@ -1,3 +1,5 @@
+package Chapter7SingleDimensionalArray.src;
+
 import java.util.*;
 public class AssignGrades {
 
